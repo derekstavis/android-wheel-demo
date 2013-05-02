@@ -1,0 +1,3 @@
+[submodule "android-wheel"]
+	path = android-wheel
+	url = git@github.com:derekstavis/android-wheel.git
